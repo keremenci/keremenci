@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-	<!--<img width="40" src="https://user-images.githubusercontent.com/57116822/132211943-331f17f0-3081-473c-a6c4-71b8e21056d1.png">-->
-
-	![cutegif](https://user-images.githubusercontent.com/57116822/132212030-7e141acb-4597-4aa2-87e2-b20f6ed2aef0.gif)
+	<img width="40" src="https://user-images.githubusercontent.com/57116822/132212030-7e141acb-4597-4aa2-87e2-b20f6ed2aef0.gif">
 </p>
 
 
