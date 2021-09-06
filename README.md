@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **keremenci/keremenci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-	<img width="40" src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif">
+	<img width="40" src="https://user-images.githubusercontent.com/57116822/132211943-331f17f0-3081-473c-a6c4-71b8e21056d1.png">
+
 </p>
 
  </br>
