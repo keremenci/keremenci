@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+	<img width="40" src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif">
+</p>
+
+ </br>
+<p align="center">
+<samp>
+Hi
+</samp>
+</br></br>
+</p>
+<samp>
+<p align="center">
+<a href="https://discord.com/users/198546324419903499">discord</a> | <a href="https://steamcommunity.com/id/Keremenci">steam</a>
+</p>
